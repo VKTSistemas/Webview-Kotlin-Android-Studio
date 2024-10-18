@@ -1,4 +1,3 @@
-package com.vkt.prote
 
 import android.os.Bundle
 import android.webkit.WebView
