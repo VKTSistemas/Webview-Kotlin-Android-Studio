@@ -1,8 +1,8 @@
-# Protech WebView App
+# Webview Android - Kotlin - Android Studio
 
 ## Descrição
 
-O **Protech WebView App** é um aplicativo Android que utiliza uma `WebView` para exibir o site da Protech, especializado em manutenção e automação industrial, com foco em lavanderias industriais. O aplicativo oferece uma navegação fluida, permitindo que a equipe acesse facilmente o sistema interno de ordens de serviço.
+O **WebView App** é um aplicativo Android que utiliza uma `WebView` para exibir o site da Protech, especializado em manutenção e automação industrial, com foco em lavanderias industriais. O aplicativo oferece uma navegação fluida, permitindo que a equipe acesse facilmente o sistema interno de ordens de serviço.
 
 ## Funcionalidades
 
